@@ -16,10 +16,3 @@ The information from the council site is very scant , disparate and confusing, s
 
 Please share the link and Let us know your thoughts - and more importantly let your councillors, political candidates and  MP know your thoughts. There is a general election hustings on 31st May in Ashford - go and ask questions! If we don't make our voices heard now and let ABC put all this land into its plan then we will lose our rural landscape forever.
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
