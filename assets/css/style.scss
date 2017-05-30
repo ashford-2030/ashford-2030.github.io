@@ -4,8 +4,9 @@
 @import "{{ site.theme }}";
 
 .page-header { 
-  color: #fff; 
+  color: darkkhaki; 
   text-align: center; 
-  background-color: #159957; 
   background-image: url("http://www.mapping-ashford-2030-plan.com/assets/header.jpg");
+  background-size: cover;
+  background-position: center;
 }
