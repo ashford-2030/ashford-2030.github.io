@@ -4,11 +4,9 @@ Are you aware of the developments being planned as part of ABC's core plan 2030?
 
 Some friends and I have been working on this map to make more people aware of the full extent of proposed developments in and around this area, we'd love to know your thoughts......
 
-[google maps link](https://www.google.co.uk/maps/@51.1074543,0.823524,13z/data=!4m2!6m1!1s1eK9Jhuzd8l9kXB0t355LFvCOJMw)
+<iframe src="https://www.google.com/maps/d/embed?mid=1eK9Jhuzd8l9kXB0t355LFvCOJMw" width="100%" height="480"></iframe>
 
-Embed:
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1eK9Jhuzd8l9kXB0t355LFvCOJMw" width="640" height="480"></iframe>
+You can also see the map here:  [click to view in google maps](https://www.google.co.uk/maps/@51.1074543,0.823524,13z/data=!4m2!6m1!1s1eK9Jhuzd8l9kXB0t355LFvCOJMw)
 
 As many of you know Ashford borough council are currently working on their core plan  2030 which is due to be published for consultation sometime this summer. This will outline which areas they are going to allow development in (both residential and commercial).  Once the council incorporates these areas into its plan it will be almost impossible to stop development on these sites. For those that live between Ashford and Hamstreet, this means that much  of the rural landscape, fields  and woodland we all love so much is at risk of being developed into urban housing developments as well as some commercial developments too. 
 
