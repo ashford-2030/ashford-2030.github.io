@@ -16,21 +16,21 @@ Please share the link and Let us know your thoughts - and more importantly let y
 
 ### Write to your local councillors
 
-http://www.ashford.gov.uk/councillors
+[](http://www.ashford.gov.uk/councillors)
 
 ### Your MP candidates
 
-http://pmcampaigns.herokuapp.com/campaigns/email-mp-candidates
+[](http://pmcampaigns.herokuapp.com/campaigns/email-mp-candidates)
 
-https://www.damiangreen.co.uk/contact
+[](https://www.damiangreen.co.uk/contact)
 
 ### Kent County Council
 
-http://www.ashford.gov.uk/county-council
+[](http://www.ashford.gov.uk/county-council)
 
 ### Discuss on Facebook
 
-https://www.facebook.com/ashfordlocalplandiscussion/
+[](https://www.facebook.com/ashfordlocalplandiscussion/)
 
 Share the links and information - many people do not yet know the full extent of it but now and whilst the plan is still in draft is the time to object.
 
@@ -38,7 +38,7 @@ The council are supposed to publish their Core Plan 2030 sometime this summer an
 
 ### Sign up to the council updates and emails
 
-http://www.ashford.gov.uk/local-plan-2030
+[](http://www.ashford.gov.uk/local-plan-2030)
 
 And, if people are up for it - it might be worth starting a petition - such as, calling for a green belt around rural villages and/or more protection for rural villages from urbanisation, and/ or a green belt around the ashford urban area itself to contain urban development ...? We'd be interested to know your thoughts, join us on facebook to discuss.
 
