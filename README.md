@@ -12,6 +12,12 @@ As many of you know Ashford borough council are currently working on their core 
 
 The information from the council site is very scant , disparate and confusing, so we have been spending some time putting it all in one place so that we can get a better overview of what it really means for us. The map is a work in progress and because it is not an ordinance survey map is not going to 100% correct because google doesn't give us land ownership boundaries. But it is good enough - and shows the true extent and the cumulative effect. We have also focused on the areas of Weald South, Weald East and Saxon Shore because this is where we are from but we would welcome contributions from anywhere else as this applies to all the surrounding villages.
 
+Orange depicts areas submitted for inclusion into the plan. 
+Yellow - omission sites - submitted as 'late' entries. 
+Red - sites such as Chilmington Green already underway. 
+
+Where possible we've tried to use the council's site codes. We are working on trying to display the number of homes each of these sites represent too (which can be found here [http://www.ashford.gov.uk/site-submissions-2013](http://www.ashford.gov.uk/site-submissions-2013)).
+
 Please share the link and Let us know your thoughts - and more importantly let your councillors, political candidates know your thoughts too.
 
 ### Write to your local councillors
