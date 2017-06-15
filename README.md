@@ -16,7 +16,7 @@ Orange depicts areas submitted for inclusion into the plan.
 Yellow - omission sites - submitted as 'late' entries. 
 Red - sites such as Chilmington Green already underway. 
 
-Where possible we've tried to use the council's site codes. We are working on trying to display the number of homes each of these sites represent too (which can be found here [http://www.ashford.gov.uk/site-submissions-2013](http://www.ashford.gov.uk/site-submissions-2013)).
+Where possible we've tried to use the council's site codes. We are working on trying to display the number of homes each of these sites represent too (which can also be found here [http://www.ashford.gov.uk/site-submissions-2013](http://www.ashford.gov.uk/site-submissions-2013)).
 
 Please share the link and Let us know your thoughts - and more importantly let your councillors, political candidates know your thoughts too.
 
