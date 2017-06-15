@@ -40,7 +40,12 @@ Please share the link and Let us know your thoughts - and more importantly let y
 
 Share the links and information - many people do not yet know the full extent of it but now and whilst the plan is still in draft is the time to object.
 
-The council are supposed to publish their Core Plan 2030 sometime this summer and then a consultation with the people that it affects. They usually run 'roadshows' workshop type days - so this is where we need to be ready and make our voices heard too. 
+### Email Us
+
+mappingashford2030plan@gmail.com
+
+
+The council are supposed to publish their Core Plan 2030 sometime this summer and then a consultation with the people that it affects. They usually run 'roadshow' workshop days - so this is where we need to be ready and make our voices heard too. 
 
 ### Sign up to the council updates and emails
 
