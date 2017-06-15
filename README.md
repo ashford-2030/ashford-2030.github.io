@@ -45,9 +45,11 @@ Share the links and information - many people do not yet know the full extent of
 mappingashford2030plan@gmail.com
 
 
-The council are supposed to publish their Core Plan 2030 sometime this summer and then a consultation with the people that it affects. They usually run 'roadshow' workshop days - so this is where we need to be ready and make our voices heard too. 
+
 
 ### Sign up to the council updates and emails
+
+The council are supposed to publish their Core Plan 2030 sometime this summer and then a consultation with the people that it affects. They usually run 'roadshow' workshop days - so this is where we need to be ready and make our voices heard too. 
 
 [http://www.ashford.gov.uk/local-plan-2030](http://www.ashford.gov.uk/local-plan-2030)
 
