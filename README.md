@@ -2,7 +2,7 @@
 
 Are you aware of the developments being planned as part of Ashford Borough Council's core plan 2030?
 
-As many of you know Ashford borough council have now published their revised core plan  2030. This will outline which areas they are going to allow development in (both residential and commercial).  Once the council incorporates these areas into its plan it will be impossible to stop development on these sites. For those that live in the rural areas around Ashford especially, this means that much  of the rural landscape, fields  and woodland we all love so much are at risk of being developed into urban housing developments as well as some commercial developments too. 
+Ashford borough council have now published their revised core plan 2030 and have begun a public consultation which runs to the end of August 2017. The plan outlines which areas they are going to allow development in (both residential and commercial).  Once the council incorporates these areas into its plan it will be impossible to stop development on these sites. For those that live in the rural areas around Ashford especially, this means that much  of the rural landscape, fields  and woodland we all love so much are at risk of being developed into urban housing developments as well as some commercial developments too. 
 
 Information about the plan and all the main changes can be found on the council's website
 
