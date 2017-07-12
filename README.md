@@ -13,14 +13,16 @@ We urge you to read this, attend the public exhibitions and to comment on the pl
 
 ## Resident created Google Map
 
-The council have not yet published any maps, and thus a group of residents have created this map to make more people aware of the full context and the extent of the proposed developments which can be viewed here
+The council have not yet published any maps providing an overview of all the sites, and we as residents felt the need to be able to clearly see the context and the full extent of all the proposed developments, which is why we have been working to create our own google map, which can be viewed here
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1eK9Jhuzd8l9kXB0t355LFvCOJMw" width="100%" height="480"></iframe>
 
 You can also see the map here:  [click to view in google maps](https://www.google.co.uk/maps/@51.1074543,0.823524,13z/data=!4m2!6m1!1s1eK9Jhuzd8l9kXB0t355LFvCOJMw)
 
 
-The map is a work in progress and based on what we can glean from the council website. Also because it is not an ordinance survey map is not going to be 100% accurate because google doesn't give us land ownership boundaries. But it is good enough - and shows the extent and the cumulative effect. We have focused on the areas of Weald South, Weald East and Saxon Shore because this is where we are from, but we would welcome contributions from anywhere else as this applies to all the surrounding villages.
+The map is still a work in progress and based on what we can glean from the council website. Also, because it is not an ordinance survey map is not going to be 100% accurate because google doesn't give us land ownership boundaries. But it is good enough - and shows the extent and the cumulative effect. We have focused on the areas of Weald South, Weald East and Saxon Shore because this is where we are from, but we would welcome contributions from anywhere else as this applies to all the surrounding villages of Ashford.
+
+## Map Key
 
 Orange = proposed areas in plan. 
 Yellow = rejected omission sites or those that we are unsure of their status
@@ -30,6 +32,8 @@ Pink = under appeal
 Where possible we've tried to use the council's site codes. If you click on each area the code will come up and where we have been able to find the information, the number of homes too. 
 
 Please share the link and Let us know your thoughts - and more importantly let your local councillors and MP know, and most importantly comment on the council website
+
+## Get Involved and Have Your Say
 
 ### Respond to the Consultation
 [https://haveyoursay.ashford.gov.uk/consult.ti/LPChanges](https://haveyoursay.ashford.gov.uk/consult.ti/LPChanges)
