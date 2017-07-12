@@ -25,9 +25,13 @@ The map is still a work in progress and based on what we can glean from the coun
 ## Map Key
 
 Orange = proposed areas in plan. 
+
 Yellow = rejected omission sites or those that we are unsure of their status
+
 Blue = underway
+
 Pink = under appeal  
+
 
 Where possible we've tried to use the council's site codes. If you click on each area the code will come up and where we have been able to find the information, the number of homes too. 
 
