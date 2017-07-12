@@ -11,6 +11,8 @@ Information about the plan and all the main changes can be found on the council'
 
 We urge you to read this, attend the public exhibitions and to comment on the plan where appropriate. These are going to be  far reaching and irreversible changes to the landscape of Ashford and it's surrounds so please get involved and have your say.
 
+## Resident created Google Map
+
 The council have not yet published any maps, and thus a group of residents have created this map to make more people aware of the full context and the extent of the proposed developments which can be viewed here
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1eK9Jhuzd8l9kXB0t355LFvCOJMw" width="100%" height="480"></iframe>
